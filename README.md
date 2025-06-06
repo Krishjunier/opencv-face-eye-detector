@@ -25,8 +25,8 @@ As part of my Week 2 task during the Artificial Intelligence Internship at **NOV
 
 ## ▶️ How to Run
 
-1. Install dependencies:-'pip install opencv-python'
-2. Run the script:-'python face_eye_detection.py'
+1. Install dependencies:-'pip install opencv-python'  
+2. Run the script:-'python face_eye_detection.py'  
 
 ## 🧪 What the Code Does
 
@@ -36,5 +36,3 @@ As part of my Week 2 task during the Artificial Intelligence Internship at **NOV
 - Detects faces and then eyes inside each face  
 - Draws rectangles around faces (blue) and eyes (green)  
 - Displays each processed image one by one  
-
-
